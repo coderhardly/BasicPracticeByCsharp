@@ -1,0 +1,6 @@
+E:\Dotnet练习\DotnetBasiicPractice\TestEqual\bin\Debug\TestEqual.exe.config
+E:\Dotnet练习\DotnetBasiicPractice\TestEqual\bin\Debug\TestEqual.exe
+E:\Dotnet练习\DotnetBasiicPractice\TestEqual\bin\Debug\TestEqual.pdb
+E:\Dotnet练习\DotnetBasiicPractice\TestEqual\obj\Debug\TestEqual.csproj.CoreCompileInputs.cache
+E:\Dotnet练习\DotnetBasiicPractice\TestEqual\obj\Debug\TestEqual.exe
+E:\Dotnet练习\DotnetBasiicPractice\TestEqual\obj\Debug\TestEqual.pdb

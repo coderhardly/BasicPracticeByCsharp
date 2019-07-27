@@ -1,0 +1,14 @@
+E:\Dotnet练习\DelegateAndEvent\Singleton\bin\Debug\Singleton.exe.config
+E:\Dotnet练习\DelegateAndEvent\Singleton\bin\Debug\Singleton.exe
+E:\Dotnet练习\DelegateAndEvent\Singleton\bin\Debug\Singleton.pdb
+E:\Dotnet练习\DelegateAndEvent\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+E:\Dotnet练习\DelegateAndEvent\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+E:\Dotnet练习\DelegateAndEvent\Singleton\obj\Debug\Singleton.exe
+E:\Dotnet练习\DelegateAndEvent\Singleton\obj\Debug\Singleton.pdb
+E:\Dotnet练习\DotnetBasiicPractice\Singleton\bin\Debug\Singleton.exe.config
+E:\Dotnet练习\DotnetBasiicPractice\Singleton\bin\Debug\Singleton.exe
+E:\Dotnet练习\DotnetBasiicPractice\Singleton\bin\Debug\Singleton.pdb
+E:\Dotnet练习\DotnetBasiicPractice\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+E:\Dotnet练习\DotnetBasiicPractice\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+E:\Dotnet练习\DotnetBasiicPractice\Singleton\obj\Debug\Singleton.exe
+E:\Dotnet练习\DotnetBasiicPractice\Singleton\obj\Debug\Singleton.pdb

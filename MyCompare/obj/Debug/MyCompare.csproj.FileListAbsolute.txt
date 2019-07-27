@@ -1,0 +1,7 @@
+E:\Dotnet练习\DotnetBasiicPractice\MyCompare\bin\Debug\MyCompare.exe.config
+E:\Dotnet练习\DotnetBasiicPractice\MyCompare\bin\Debug\MyCompare.exe
+E:\Dotnet练习\DotnetBasiicPractice\MyCompare\bin\Debug\MyCompare.pdb
+E:\Dotnet练习\DotnetBasiicPractice\MyCompare\obj\Debug\MyCompare.csprojAssemblyReference.cache
+E:\Dotnet练习\DotnetBasiicPractice\MyCompare\obj\Debug\MyCompare.csproj.CoreCompileInputs.cache
+E:\Dotnet练习\DotnetBasiicPractice\MyCompare\obj\Debug\MyCompare.exe
+E:\Dotnet练习\DotnetBasiicPractice\MyCompare\obj\Debug\MyCompare.pdb

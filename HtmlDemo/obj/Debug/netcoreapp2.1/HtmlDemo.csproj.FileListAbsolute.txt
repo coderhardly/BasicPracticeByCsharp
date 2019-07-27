@@ -1,0 +1,14 @@
+E:\Dotnet练习\DotnetBasiicPractice\HtmlDemo\bin\Debug\netcoreapp2.1\HtmlDemo.deps.json
+E:\Dotnet练习\DotnetBasiicPractice\HtmlDemo\bin\Debug\netcoreapp2.1\HtmlDemo.runtimeconfig.json
+E:\Dotnet练习\DotnetBasiicPractice\HtmlDemo\bin\Debug\netcoreapp2.1\HtmlDemo.runtimeconfig.dev.json
+E:\Dotnet练习\DotnetBasiicPractice\HtmlDemo\bin\Debug\netcoreapp2.1\HtmlDemo.dll
+E:\Dotnet练习\DotnetBasiicPractice\HtmlDemo\bin\Debug\netcoreapp2.1\HtmlDemo.pdb
+E:\Dotnet练习\DotnetBasiicPractice\HtmlDemo\obj\Debug\netcoreapp2.1\HtmlDemo.csprojAssemblyReference.cache
+E:\Dotnet练习\DotnetBasiicPractice\HtmlDemo\obj\Debug\netcoreapp2.1\HtmlDemo.csproj.CoreCompileInputs.cache
+E:\Dotnet练习\DotnetBasiicPractice\HtmlDemo\obj\Debug\netcoreapp2.1\HtmlDemo.RazorAssemblyInfo.cache
+E:\Dotnet练习\DotnetBasiicPractice\HtmlDemo\obj\Debug\netcoreapp2.1\HtmlDemo.RazorAssemblyInfo.cs
+E:\Dotnet练习\DotnetBasiicPractice\HtmlDemo\obj\Debug\netcoreapp2.1\HtmlDemo.AssemblyInfoInputs.cache
+E:\Dotnet练习\DotnetBasiicPractice\HtmlDemo\obj\Debug\netcoreapp2.1\HtmlDemo.AssemblyInfo.cs
+E:\Dotnet练习\DotnetBasiicPractice\HtmlDemo\obj\Debug\netcoreapp2.1\HtmlDemo.RazorTargetAssemblyInfo.cache
+E:\Dotnet练习\DotnetBasiicPractice\HtmlDemo\obj\Debug\netcoreapp2.1\HtmlDemo.dll
+E:\Dotnet练习\DotnetBasiicPractice\HtmlDemo\obj\Debug\netcoreapp2.1\HtmlDemo.pdb

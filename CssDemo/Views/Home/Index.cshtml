@@ -1,0 +1,87 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = null;
+}
+<style>
+    .myleft{
+       float:left;
+        width:200px;
+         height:200px;
+         background-color:red;
+    }
+    .mymiddle {
+        /*display: inline-block;*/
+        /*float: left;*/
+        /*margin: 0,200px;*/
+        background-color: yellow;
+        height: 200px;
+    }
+    .myright {
+        /*//display: inline-block;*/
+        float: right;
+        width: 200px;
+        height: 200px;
+        background-color: blue;
+    }
+    #d1 div{
+        position:absolute;
+        height:300px;
+    }
+    #d2 div {
+      
+        height: 100px;
+    }
+    .myleft1{
+        left:0;
+        width: 200px;
+        background-color: red;
+    }
+
+    .mymiddle1{
+        left:200px;
+        right:200px;
+        background-color: yellow;
+    }
+
+    .myright1 {
+        right:0;
+        /*//display: inline-block;*/
+        width: 200px;
+        background-color: blue;
+    }
+</style>
+
+
+<div style="width:100%;margin:5px,auto;position:relative;overflow:auto">
+
+    <div class="myleft">
+        How to
+    </div>
+
+    @*<div class="myright">
+        Run &amp; Deploy
+
+    </div>*@
+    <div class="mymiddle">
+        Overview
+
+    </div>
+</div>
+<div id="d1" style="width:100%;margin:5px,auto">
+
+    <div class="myleft1">
+        How to
+    </div>
+    <div class="mymiddle1">
+        232
+    </div>
+    <div class="myright1">
+        33
+
+    </div>
+</div>
+<div id="d2" style="width:100%; margin:400px auto;">
+    <div style="width:200px; float:right; background-color:#960">这是右侧的内容 固定宽度</div>
+    <div style="width:150px; float:left; background:#6FF">这是左侧的内容 固定宽度</div>
+    <div style="margin-left:150px;margin-right:200px; background-color:#9F3">中间内容，自适应宽度</div>
+</div>

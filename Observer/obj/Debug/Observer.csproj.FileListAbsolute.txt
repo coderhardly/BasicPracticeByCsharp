@@ -1,0 +1,14 @@
+E:\Dotnet练习\DelegateAndEvent\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+E:\Dotnet练习\DelegateAndEvent\Observer\obj\Debug\Observer.csprojAssemblyReference.cache
+E:\Dotnet练习\DelegateAndEvent\Observer\bin\Debug\Observer.exe.config
+E:\Dotnet练习\DelegateAndEvent\Observer\bin\Debug\Observer.exe
+E:\Dotnet练习\DelegateAndEvent\Observer\bin\Debug\Observer.pdb
+E:\Dotnet练习\DelegateAndEvent\Observer\obj\Debug\Observer.exe
+E:\Dotnet练习\DelegateAndEvent\Observer\obj\Debug\Observer.pdb
+E:\Dotnet练习\DotnetBasiicPractice\Observer\bin\Debug\Observer.exe.config
+E:\Dotnet练习\DotnetBasiicPractice\Observer\bin\Debug\Observer.exe
+E:\Dotnet练习\DotnetBasiicPractice\Observer\bin\Debug\Observer.pdb
+E:\Dotnet练习\DotnetBasiicPractice\Observer\obj\Debug\Observer.csprojAssemblyReference.cache
+E:\Dotnet练习\DotnetBasiicPractice\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+E:\Dotnet练习\DotnetBasiicPractice\Observer\obj\Debug\Observer.exe
+E:\Dotnet练习\DotnetBasiicPractice\Observer\obj\Debug\Observer.pdb

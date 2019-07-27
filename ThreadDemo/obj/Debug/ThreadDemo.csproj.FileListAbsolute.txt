@@ -1,0 +1,13 @@
+E:\Dotnet练习\DelegateAndEvent\ThreadDemo\bin\Debug\ThreadDemo.exe.config
+E:\Dotnet练习\DelegateAndEvent\ThreadDemo\bin\Debug\ThreadDemo.exe
+E:\Dotnet练习\DelegateAndEvent\ThreadDemo\bin\Debug\ThreadDemo.pdb
+E:\Dotnet练习\DelegateAndEvent\ThreadDemo\obj\Debug\ThreadDemo.csproj.CoreCompileInputs.cache
+E:\Dotnet练习\DelegateAndEvent\ThreadDemo\obj\Debug\ThreadDemo.exe
+E:\Dotnet练习\DelegateAndEvent\ThreadDemo\obj\Debug\ThreadDemo.pdb
+E:\Dotnet练习\DotnetBasiicPractice\ThreadDemo\bin\Debug\ThreadDemo.exe.config
+E:\Dotnet练习\DotnetBasiicPractice\ThreadDemo\bin\Debug\ThreadDemo.exe
+E:\Dotnet练习\DotnetBasiicPractice\ThreadDemo\bin\Debug\ThreadDemo.pdb
+E:\Dotnet练习\DotnetBasiicPractice\ThreadDemo\obj\Debug\ThreadDemo.csprojAssemblyReference.cache
+E:\Dotnet练习\DotnetBasiicPractice\ThreadDemo\obj\Debug\ThreadDemo.csproj.CoreCompileInputs.cache
+E:\Dotnet练习\DotnetBasiicPractice\ThreadDemo\obj\Debug\ThreadDemo.exe
+E:\Dotnet练习\DotnetBasiicPractice\ThreadDemo\obj\Debug\ThreadDemo.pdb

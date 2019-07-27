@@ -1,0 +1,7 @@
+E:\Dotnet练习\DotnetBasiicPractice\InitnalClass\bin\Debug\InitnalClass.exe.config
+E:\Dotnet练习\DotnetBasiicPractice\InitnalClass\bin\Debug\InitnalClass.exe
+E:\Dotnet练习\DotnetBasiicPractice\InitnalClass\bin\Debug\InitnalClass.pdb
+E:\Dotnet练习\DotnetBasiicPractice\InitnalClass\obj\Debug\InitnalClass.csprojAssemblyReference.cache
+E:\Dotnet练习\DotnetBasiicPractice\InitnalClass\obj\Debug\InitnalClass.csproj.CoreCompileInputs.cache
+E:\Dotnet练习\DotnetBasiicPractice\InitnalClass\obj\Debug\InitnalClass.exe
+E:\Dotnet练习\DotnetBasiicPractice\InitnalClass\obj\Debug\InitnalClass.pdb

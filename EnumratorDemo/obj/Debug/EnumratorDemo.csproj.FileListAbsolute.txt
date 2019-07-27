@@ -1,0 +1,6 @@
+E:\Dotnet练习\DotnetBasiicPractice\EnumratorDemo\bin\Debug\EnumratorDemo.exe.config
+E:\Dotnet练习\DotnetBasiicPractice\EnumratorDemo\bin\Debug\EnumratorDemo.exe
+E:\Dotnet练习\DotnetBasiicPractice\EnumratorDemo\bin\Debug\EnumratorDemo.pdb
+E:\Dotnet练习\DotnetBasiicPractice\EnumratorDemo\obj\Debug\EnumratorDemo.csproj.CoreCompileInputs.cache
+E:\Dotnet练习\DotnetBasiicPractice\EnumratorDemo\obj\Debug\EnumratorDemo.exe
+E:\Dotnet练习\DotnetBasiicPractice\EnumratorDemo\obj\Debug\EnumratorDemo.pdb

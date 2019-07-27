@@ -1,0 +1,62 @@
+﻿@{
+    ViewData["Title"] = "About";
+    Layout = null;
+}
+@*<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>*@
+<style>
+    .d1{
+        width:200px;
+        height:200px;
+        background-color:red;
+        /*position:absolute;*/
+        left:100px;
+       top:100px;
+       text-align:center;
+       line-height:200px;
+      
+      
+    }
+        .d1 p {
+            /*vertical-align: middle;*/
+          
+        }
+    .father {
+        height: 300px;
+        position: relative;
+        background-color: green;
+    }
+
+    .son {
+        height: 100px;
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        margin: auto 0;
+        background-color: red;
+    }
+    #main {
+        display: flex;
+        background-color:aqua;
+        height:300px;
+        width:70%;
+    }
+
+        #main div {
+            margin: auto;
+            background-color: red;
+            height: 100px;
+            width: 70%;
+        }
+</style>
+<div class="d1">
+    <p>就晋级</p>
+</div>
+<div class="father">
+    <div class="son"></div>
+</div>
+<div id="#main">
+    <div></div>
+</div>
