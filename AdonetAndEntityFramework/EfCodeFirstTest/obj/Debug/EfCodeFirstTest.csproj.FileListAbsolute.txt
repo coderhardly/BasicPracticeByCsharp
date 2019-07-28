@@ -1,0 +1,16 @@
+E:\Dotnet练习\AdonetAndEntityFramework\EfCodeFirstTest\bin\Debug\EfCodeFirstTest.exe.config
+E:\Dotnet练习\AdonetAndEntityFramework\EfCodeFirstTest\bin\Debug\EfCodeFirstTest.exe
+E:\Dotnet练习\AdonetAndEntityFramework\EfCodeFirstTest\bin\Debug\EfCodeFirstTest.pdb
+E:\Dotnet练习\AdonetAndEntityFramework\EfCodeFirstTest\bin\Debug\EntityFramework.dll
+E:\Dotnet练习\AdonetAndEntityFramework\EfCodeFirstTest\bin\Debug\EntityFramework.SqlServer.dll
+E:\Dotnet练习\AdonetAndEntityFramework\EfCodeFirstTest\bin\Debug\EntityFramework.xml
+E:\Dotnet练习\AdonetAndEntityFramework\EfCodeFirstTest\bin\Debug\EntityFramework.SqlServer.xml
+E:\Dotnet练习\AdonetAndEntityFramework\EfCodeFirstTest\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\Dotnet练习\AdonetAndEntityFramework\EfCodeFirstTest\obj\Debug\EfCodeFirstTest.csprojAssemblyReference.cache
+E:\Dotnet练习\AdonetAndEntityFramework\EfCodeFirstTest\obj\Debug\EfCodeFirstTest.csproj.CoreCompileInputs.cache
+E:\Dotnet练习\AdonetAndEntityFramework\EfCodeFirstTest\obj\Debug\EfCodeFirstTest.csproj.CopyComplete
+E:\Dotnet练习\AdonetAndEntityFramework\EfCodeFirstTest\obj\Debug\EfCodeFirstTest.exe
+E:\Dotnet练习\AdonetAndEntityFramework\EfCodeFirstTest\obj\Debug\EfCodeFirstTest.pdb
+E:\Dotnet练习\AdonetAndEntityFramework\EfCodeFirstTest\obj\Debug\EfCodeFirstTest.Migrations.InitialCreate.resources
+E:\Dotnet练习\AdonetAndEntityFramework\EfCodeFirstTest\obj\Debug\EfCodeFirstTest.csproj.GenerateResource.cache
+E:\Dotnet练习\AdonetAndEntityFramework\EfCodeFirstTest\obj\Debug\EfCodeFirstTest.Migrations.AddUrl.resources

@@ -1,0 +1,14 @@
+E:\Dotnet练习\AdonetAndEntityFramework\AdoNet1\bin\Debug\AdoNet1.exe.config
+E:\Dotnet练习\AdonetAndEntityFramework\AdoNet1\bin\Debug\AdoNet1.exe
+E:\Dotnet练习\AdonetAndEntityFramework\AdoNet1\bin\Debug\AdoNet1.pdb
+E:\Dotnet练习\AdonetAndEntityFramework\AdoNet1\obj\Debug\AdoNet1.csprojAssemblyReference.cache
+E:\Dotnet练习\AdonetAndEntityFramework\AdoNet1\obj\Debug\AdoNet1.csproj.CoreCompileInputs.cache
+E:\Dotnet练习\AdonetAndEntityFramework\AdoNet1\obj\Debug\AdoNet1.exe
+E:\Dotnet练习\AdonetAndEntityFramework\AdoNet1\obj\Debug\AdoNet1.pdb
+E:\Dotnet练习\AdonetAndEntityFramework\AdoNet1\bin\Debug\EfCodeFirstTest.exe
+E:\Dotnet练习\AdonetAndEntityFramework\AdoNet1\bin\Debug\EntityFramework.dll
+E:\Dotnet练习\AdonetAndEntityFramework\AdoNet1\bin\Debug\EfCodeFirstTest.pdb
+E:\Dotnet练习\AdonetAndEntityFramework\AdoNet1\bin\Debug\EfCodeFirstTest.exe.config
+E:\Dotnet练习\AdonetAndEntityFramework\AdoNet1\bin\Debug\EntityFramework.xml
+E:\Dotnet练习\AdonetAndEntityFramework\AdoNet1\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\Dotnet练习\AdonetAndEntityFramework\AdoNet1\obj\Debug\AdoNet1.csproj.CopyComplete

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCodeFirstTest", "EfCodeFirstTest\EfCodeFirstTest.csproj", "{251D9BF5-AA93-4A11-9E3B-955486A3F23E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoNet1", "AdoNet1\AdoNet1.csproj", "{5300ACA0-520F-4DE3-A34A-5EA09453454B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{251D9BF5-AA93-4A11-9E3B-955486A3F23E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251D9BF5-AA93-4A11-9E3B-955486A3F23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251D9BF5-AA93-4A11-9E3B-955486A3F23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251D9BF5-AA93-4A11-9E3B-955486A3F23E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5300ACA0-520F-4DE3-A34A-5EA09453454B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5300ACA0-520F-4DE3-A34A-5EA09453454B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5300ACA0-520F-4DE3-A34A-5EA09453454B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5300ACA0-520F-4DE3-A34A-5EA09453454B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09D9BE87-194D-42C3-BD0D-7B2E8940C088}
+	EndGlobalSection
+EndGlobal
